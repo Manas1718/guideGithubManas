@@ -6,7 +6,8 @@
 
 
 This repository is designed to help you, 2nd-year students, get started with GitHub, a powerful platform for version control and collaborative coding. Whether you're new to programming or just starting your journey, this guide will assist you in understanding and using GitHub effectively.
-
+  
+  
 ## Table of Contents
 
 1. [What is GitHub?](#what-is-github)
